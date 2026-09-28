@@ -1,15 +1,16 @@
-| Interval Name | Distance (Frets / Semitones) | Example in C |
-| :--- | :---: | :---: |
-| Perfect Unison | Same fret (0) | C - C |
-| Minor Second | +1 fret (1) | C - D♭ |
-| Major Second | +2 frets (2) | C - D |
-| Minor Third | +3 frets (3) | C - E♭ |
-| Major Third | +4 frets (4) | C - E |
-| Perfect Fourth | +5 frets (5) | C - F |
-| Tritone | +6 frets (6) | C - F♯ / G♭ |
-| Perfect Fifth | +7 frets (7) | C - G |
-| Minor Sixth | +8 frets (8) | C - A♭ |
-| Major Sixth | +9 frets (9) | C - A |
-| Minor Seventh | +10 frets (10) | C - B♭ |
-| Major Seventh | +11 frets (11) | C - B |
-| Perfect Octave | +12 frets (12) | C - C |
+
+| Interval&nbsp;Name | Frets&nbsp;(Semitones) | In C | In C♯ | In D | In D♯ | In E | In F | In F♯ | In G | In G♯ | In A | In A♯ | In B |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Perfect&nbsp;Unison** | 0 | C&nbsp;➔&nbsp;C | C♯&nbsp;➔&nbsp;C♯ | D&nbsp;➔&nbsp;D | D♯&nbsp;➔&nbsp;D♯ | E&nbsp;➔&nbsp;E | F&nbsp;➔&nbsp;F | F♯&nbsp;➔&nbsp;F♯ | G&nbsp;➔&nbsp;G | G♯&nbsp;➔&nbsp;G♯ | A&nbsp;➔&nbsp;A | A♯&nbsp;➔&nbsp;A♯ | B&nbsp;➔&nbsp;B |
+| **Minor&nbsp;Second** | 1 | C&nbsp;➔&nbsp;C♯ | C♯&nbsp;➔&nbsp;D | D&nbsp;➔&nbsp;D♯ | D♯&nbsp;➔&nbsp;E | E&nbsp;➔&nbsp;F | F&nbsp;➔&nbsp;F♯ | F♯&nbsp;➔&nbsp;G | G&nbsp;➔&nbsp;G♯ | G♯&nbsp;➔&nbsp;A | A&nbsp;➔&nbsp;A♯ | A♯&nbsp;➔&nbsp;B | B&nbsp;➔&nbsp;C |
+| **Major&nbsp;Second** | 2 | C&nbsp;➔&nbsp;D | C♯&nbsp;➔&nbsp;D♯ | D&nbsp;➔&nbsp;E | D♯&nbsp;➔&nbsp;F | E&nbsp;➔&nbsp;F♯ | F&nbsp;➔&nbsp;G | F♯&nbsp;➔&nbsp;G♯ | G&nbsp;➔&nbsp;A | G♯&nbsp;➔&nbsp;A♯ | A&nbsp;➔&nbsp;B | A♯&nbsp;➔&nbsp;C | B&nbsp;➔&nbsp;C♯ |
+| **Minor&nbsp;Third** | 3 | C&nbsp;➔&nbsp;D♯ | C♯&nbsp;➔&nbsp;E | D&nbsp;➔&nbsp;F | D♯&nbsp;➔&nbsp;F♯ | E&nbsp;➔&nbsp;G | F&nbsp;➔&nbsp;G♯ | F♯&nbsp;➔&nbsp;A | G&nbsp;➔&nbsp;A♯ | G♯&nbsp;➔&nbsp;B | A&nbsp;➔&nbsp;C | A♯&nbsp;➔&nbsp;C♯ | B&nbsp;➔&nbsp;D |
+| **Major&nbsp;Third** | 4 | C&nbsp;➔&nbsp;E | C♯&nbsp;➔&nbsp;F | D&nbsp;➔&nbsp;F♯ | D♯&nbsp;➔&nbsp;G | E&nbsp;➔&nbsp;G♯ | F&nbsp;➔&nbsp;A | F♯&nbsp;➔&nbsp;A♯ | G&nbsp;➔&nbsp;B | G♯&nbsp;➔&nbsp;C | A&nbsp;➔&nbsp;C♯ | A♯&nbsp;➔&nbsp;D | B&nbsp;➔&nbsp;D♯ |
+| **Perfect&nbsp;Fourth** | 5 | C&nbsp;➔&nbsp;F | C♯&nbsp;➔&nbsp;F♯ | D&nbsp;➔&nbsp;G | D♯&nbsp;➔&nbsp;G♯ | E&nbsp;➔&nbsp;A | F&nbsp;➔&nbsp;A♯ | F♯&nbsp;➔&nbsp;B | G&nbsp;➔&nbsp;C | G♯&nbsp;➔&nbsp;C♯ | A&nbsp;➔&nbsp;D | A♯&nbsp;➔&nbsp;D♯ | B&nbsp;➔&nbsp;E |
+| **Tritone** | 6 | C&nbsp;➔&nbsp;F♯ | C♯&nbsp;➔&nbsp;G | D&nbsp;➔&nbsp;G♯ | D♯&nbsp;➔&nbsp;A | E&nbsp;➔&nbsp;A♯ | F&nbsp;➔&nbsp;B | F♯&nbsp;➔&nbsp;C | G&nbsp;➔&nbsp;C♯ | G♯&nbsp;➔&nbsp;D | A&nbsp;➔&nbsp;D♯ | A♯&nbsp;➔&nbsp;E | B&nbsp;➔&nbsp;F |
+| **Perfect&nbsp;Fifth** | 7 | C&nbsp;➔&nbsp;G | C♯&nbsp;➔&nbsp;G♯ | D&nbsp;➔&nbsp;A | D♯&nbsp;➔&nbsp;A♯ | E&nbsp;➔&nbsp;B | F&nbsp;➔&nbsp;C | F♯&nbsp;➔&nbsp;C♯ | G&nbsp;➔&nbsp;D | G♯&nbsp;➔&nbsp;D♯ | A&nbsp;➔&nbsp;E | A♯&nbsp;➔&nbsp;F | B&nbsp;➔&nbsp;F♯ |
+| **Minor&nbsp;Sixth** | 8 | C&nbsp;➔&nbsp;G♯ | C♯&nbsp;➔&nbsp;A | D&nbsp;➔&nbsp;A♯ | D♯&nbsp;➔&nbsp;B | E&nbsp;➔&nbsp;C | F&nbsp;➔&nbsp;C♯ | F♯&nbsp;➔&nbsp;D | G&nbsp;➔&nbsp;D♯ | G♯&nbsp;➔&nbsp;E | A&nbsp;➔&nbsp;F | A♯&nbsp;➔&nbsp;F♯ | B&nbsp;➔&nbsp;G |
+| **Major&nbsp;Sixth** | 9 | C&nbsp;➔&nbsp;A | C♯&nbsp;➔&nbsp;A♯ | D&nbsp;➔&nbsp;B | D♯&nbsp;➔&nbsp;C | E&nbsp;➔&nbsp;C♯ | F&nbsp;➔&nbsp;D | F♯&nbsp;➔&nbsp;D♯ | G&nbsp;➔&nbsp;E | G♯&nbsp;➔&nbsp;F | A&nbsp;➔&nbsp;F♯ | A♯&nbsp;➔&nbsp;G | B&nbsp;➔&nbsp;G♯ |
+| **Minor&nbsp;Seventh** | 10 | C&nbsp;➔&nbsp;A♯ | C♯&nbsp;➔&nbsp;B | D&nbsp;➔&nbsp;C | D♯&nbsp;➔&nbsp;C♯ | E&nbsp;➔&nbsp;D | F&nbsp;➔&nbsp;D♯ | F♯&nbsp;➔&nbsp;E | G&nbsp;➔&nbsp;F | G♯&nbsp;➔&nbsp;F♯ | A&nbsp;➔&nbsp;G | A♯&nbsp;➔&nbsp;G♯ | B&nbsp;➔&nbsp;A |
+| **Major&nbsp;Seventh** | 11 | C&nbsp;➔&nbsp;B | C♯&nbsp;➔&nbsp;C | D&nbsp;➔&nbsp;C♯ | D♯&nbsp;➔&nbsp;D | E&nbsp;➔&nbsp;D♯ | F&nbsp;➔&nbsp;E | F♯&nbsp;➔&nbsp;F | G&nbsp;➔&nbsp;F♯ | G♯&nbsp;➔&nbsp;G | A&nbsp;➔&nbsp;G♯ | A♯&nbsp;➔&nbsp;A | B&nbsp;➔&nbsp;A♯ |
+| **Perfect&nbsp;Octave** | 12 | C&nbsp;➔&nbsp;C | C♯&nbsp;➔&nbsp;C♯ | D&nbsp;➔&nbsp;D | D♯&nbsp;➔&nbsp;D♯ | E&nbsp;➔&nbsp;E | F&nbsp;➔&nbsp;F | F♯&nbsp;➔&nbsp;F♯ | G&nbsp;➔&nbsp;G | G♯&nbsp;➔&nbsp;G♯ | A&nbsp;➔&nbsp;A | A♯&nbsp;➔&nbsp;A♯ | B&nbsp;➔&nbsp;B |
