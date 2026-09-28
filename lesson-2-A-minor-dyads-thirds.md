@@ -1,6 +1,6 @@
 ## Instructions
 
-Play these dyads on the 3rd and 4th strings using fingers 1, 2 and 3 of your fretting hand.  With your strumming hand, start with a downstroke on the fourth string with your thumb and a simultaneous upstroke with your first finger.  Trying alternating between the two strings, as well.
+Play these dyads on the 3rd and 4th strings using fingers 1, 2 and 3 of your fretting hand.  With your strumming hand, start with a downstroke on the fourth string with your thumb and a simultaneous upstroke with your first finger.  Try alternating between the two strings, as well.
 
 Notice that as you move from one dyad to the next, you don't really have to take the third finger of your fretting hand off of the fourth string.  You will eventually be able to shift between any two dyads quickly and can easily use slides between them.
 
