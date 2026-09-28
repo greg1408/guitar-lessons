@@ -1,3 +1,7 @@
+## Understanding Interval Names
+
+* **Perfect (Unison, 4th, 5th, Octave):** These intervals sound highly stable and consonant to the human ear. Unlike seconds, thirds, sixths, or sevenths—which change names when altered by a half-step (becoming "Major" or "Minor")—a Perfect interval becomes "Augmented" if widened or "Diminished" if narrowed.
+* **Tritone:** This interval spans exactly **three whole tones** (6 semitones / 6 frets). It sits perfectly halfway through an octave and is famously known for its tense, unstable, and dissonant sound, which makes it a crucial building block for blues scales and dominant 7th chords.
 
 | Interval&nbsp;Name | Frets&nbsp;(Semitones) | In C | In C♯ | In D | In D♯ | In E | In F | In F♯ | In G | In G♯ | In A | In A♯ | In B |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
