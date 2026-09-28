@@ -1,4 +1,13 @@
-E-D Dyad
+## Instructions
+
+Play these dyads on the 3rd and 4th strings using finger 1 and finger 2.
+
+These dyads are derived from the first and second notes of the standard triads from the natural A minor scale.
+
+The notes in each dyad have intervals of either a minor third or a major third, depending on the type of triad.
+
+
+E-D Dyad (from E minor triad with interval of a minor third)
 |String|6/E|5/A|4/D|3/G|2/B|1/E|
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 |Open|❌|❌||🟢|❌|❌|
@@ -15,7 +24,7 @@ E-D Dyad
 |Fret 11|⚪️|⚪️|⚪️|⚪️|⚪️|⚪️|
 |Fret 12|⚪️|⚪️|⚪️|⚪️|⚪️|⚪️|
 
-F-A Dyad
+F-A Dyad (from F major triad with interval of a major third)
 |String|6/E|5/A|4/D|3/G|2/B|1/E|
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 |Open|❌|❌|||❌|❌|
@@ -32,7 +41,7 @@ F-A Dyad
 |Fret 11|⚪️|⚪️|⚪️|⚪️|⚪️|⚪️|
 |Fret 12|⚪️|⚪️|⚪️|⚪️|⚪️|⚪️|
 
-G-B Dyad
+G-B Dyad (from G major triad with interval of a major third)
 |String|6/E|5/A|4/D|3/G|2/B|1/E|
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 |Open|❌|❌|||❌|❌|
@@ -49,7 +58,7 @@ G-B Dyad
 |Fret 11|⚪️|⚪️|⚪️|⚪️|⚪️|⚪️|
 |Fret 12|⚪️|⚪️|⚪️|⚪️|⚪️|⚪️|
 
-A-C Dyad
+A-C Dyad (from A minor triad with interval of a minor third)
 |String|6/E|5/A|4/D|3/G|2/B|1/E|
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 |Open|❌|❌|||❌|❌|
@@ -66,7 +75,7 @@ A-C Dyad
 |Fret 11|⚪️|⚪️|⚪️|⚪️|⚪️|⚪️|
 |Fret 12|⚪️|⚪️|⚪️|⚪️|⚪️|⚪️|
 
-B-D Dyad
+B-D Dyad (from B diminished triad with interval of a minor third)
 |String|6/E|5/A|4/D|3/G|2/B|1/E|
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 |Open|❌|❌|||❌|❌|
@@ -83,7 +92,7 @@ B-D Dyad
 |Fret 11|⚪️|⚪️|⚪️|⚪️|⚪️|⚪️|
 |Fret 12|⚪️|⚪️|⚪️|⚪️|⚪️|⚪️|
 
-C-E Dyad
+C-E Dyad (from C major triad with interval of a major third)
 |String|6/E|5/A|4/D|3/G|2/B|1/E|
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 |Open|❌|❌|||❌|❌|
@@ -100,7 +109,7 @@ C-E Dyad
 |Fret 11|⚪️|⚪️|⚪️|⚪️|⚪️|⚪️|
 |Fret 12|⚪️|⚪️|⚪️|⚪️|⚪️|⚪️|
 
-D-F Dyad
+D-F Dyad (from D minor triad with interval of a minor third)
 |String|6/E|5/A|4/D|3/G|2/B|1/E|
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 |Open|❌|❌|||❌|❌|
