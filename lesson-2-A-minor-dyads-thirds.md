@@ -2,6 +2,8 @@
 
 Play these dyads on the 3rd and 4th strings using finger 1 and finger 2.
 
+Once you feel comfortable moving between them, work with them to make up your own song part.
+
 These dyads are derived from the first and second notes of the standard triads from the natural A minor scale.
 
 The notes in each dyad have intervals of either a minor third or a major third, depending on the type of triad.
