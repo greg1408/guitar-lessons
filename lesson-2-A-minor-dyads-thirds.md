@@ -1,8 +1,8 @@
 ## Instructions
 
-Play these dyads on the 3rd and 4th strings using finger 1 and finger 2.
+Play these dyads on the 3rd and 4th strings using fingers 1, 2 and 3 of your fretting hand.  With your strumming hand, start with a downstroke on the forth string with your thumb and a simultaneous upstroke with your first finger.  Trying alternating between the two strings, as well.
 
-Once you feel comfortable moving between them, work with them to make up your own song part.
+Once you feel comfortable playing and moving between the dyads, work with them to make up your own song part.
 
 These dyads are derived from the first and second notes of the standard triads from the natural A minor scale.
 
@@ -70,7 +70,7 @@ A-C Dyad (from A minor triad with interval of a minor third)
 |Fret 4|⚪️|⚪️|⚪️|⚪️|⚪️|⚪️|
 |Fret 5|⚪️|⚪️|⚪️|⓵|⚪️|⚪️|
 |Fret 6|⚪️|⚪️|⚪️|⚪️|⚪️|⚪️|
-|Fret 7|⚪️|⚪️|⓶|⚪️|⚪️|⚪️|
+|Fret 7|⚪️|⚪️|⓷|⚪️|⚪️|⚪️|
 |Fret 8|⚪️|⚪️|⚪️|⚪️|⚪️|⚪️|
 |Fret 9|⚪️|⚪️|⚪️|⚪️|⚪️|⚪️|
 |Fret 10|⚪️|⚪️|⚪️|⚪️|⚪️|⚪️|
@@ -89,7 +89,7 @@ B-D Dyad (from B diminished triad with interval of a minor third)
 |Fret 6|⚪️|⚪️|⚪️|⚪️|⚪️|⚪️|
 |Fret 7|⚪️|⚪️|⚪️|⓵|⚪️|⚪️|
 |Fret 8|⚪️|⚪️|⚪️|⚪️|⚪️|⚪️|
-|Fret 9|⚪️|⚪️|⓶|⚪️|⚪️|⚪️|
+|Fret 9|⚪️|⚪️|⓷|⚪️|⚪️|⚪️|
 |Fret 10|⚪️|⚪️|⚪️|⚪️|⚪️|⚪️|
 |Fret 11|⚪️|⚪️|⚪️|⚪️|⚪️|⚪️|
 |Fret 12|⚪️|⚪️|⚪️|⚪️|⚪️|⚪️|
@@ -126,4 +126,4 @@ D-F Dyad (from D minor triad with interval of a minor third)
 |Fret 9|⚪️|⚪️|⚪️|⚪️|⚪️|⚪️|
 |Fret 10|⚪️|⚪️|⚪️|⓵|⚪️|⚪️|
 |Fret 11|⚪️|⚪️|⚪️|⚪️|⚪️|⚪️|
-|Fret 12|⚪️|⚪️|⓶|⚪️|⚪️|⚪️|
+|Fret 12|⚪️|⚪️|⓷|⚪️|⚪️|⚪️|
